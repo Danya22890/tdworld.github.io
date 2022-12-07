@@ -1,0 +1,65 @@
+<manifest alg="2" build="2017.0.4.363" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="tdworld.ml" resolutions="1x" timestamp="1670060288291">
+  <folder name="assets">
+    <file name="start.wav" crc="4176868209" seo="true" mt="1670060171000"/>
+  </folder>
+  <folder name="phone">
+    <folder name="css">
+      <file name="index.css" crc="3850966699" ref="phone>index"/>
+    </folder>
+    <file name="index.html" crc="396339606" seo="true" mt="1670011280601" redirect="true"/>
+  </folder>
+  <folder name="css">
+    <file name="site_global.css" crc="443350757"/>
+    <file name="index.css" crc="3936404553" ref="index"/>
+    <file name="my-projects.css" crc="4095564426" ref="my-projects"/>
+    <file name="___-_______.css" crc="4078277698" ref="мои-проекты"/>
+    <file name="_____-___________.css" crc="363615989" ref="добро-пожаловать!"/>
+    <file name="language_____.css" crc="479983164" ref="languageязыки"/>
+    <file name="_____.css" crc="390342832" ref="языки"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:languageязыки:добро-пожаловать!:языки:my-projects:мои-проекты:phone>index"/>
+    <file name="museutils.js" crc="4216313831" ref="index:languageязыки:добро-пожаловать!:языки:my-projects:мои-проекты:phone>index"/>
+    <file name="whatinput.js" crc="86476730" ref="index:languageязыки:добро-пожаловать!:языки:my-projects:мои-проекты:phone>index"/>
+    <file name="museconfig.js" crc="474374037" ref="index:languageязыки:добро-пожаловать!:языки:my-projects:мои-проекты:phone>index"/>
+    <file name="jquery.watch.js" crc="460461809" ref="index:languageязыки:добро-пожаловать!:языки:my-projects:мои-проекты:phone>index"/>
+    <file name="require.js" crc="3951022091" ref="index:languageязыки:добро-пожаловать!:языки:my-projects:мои-проекты:phone>index"/>
+  </folder>
+  <folder name="images">
+    <file name="снимок-photoroom (2)-u117-a.png" crc="3793276101" ref="index"/>
+    <file name="blank.gif" crc="4208392903" ref="index:languageязыки:добро-пожаловать!:языки:my-projects:мои-проекты"/>
+    <file name="nerok_banner.jpg" crc="4169156266" seo="true" ref="index:добро-пожаловать!">
+      <caption webpage="index" alt=""/>
+      <caption webpage="добро-пожаловать!" alt=""/>
+    </file>
+    <file name="maybanner.jpg" crc="4050675231" seo="true" ref="index:добро-пожаловать!">
+      <caption webpage="index" alt=""/>
+      <caption webpage="добро-пожаловать!" alt=""/>
+    </file>
+    <file name="happywin8baner.jpg" crc="4237658347" seo="true" ref="index:добро-пожаловать!">
+      <caption webpage="index" alt=""/>
+      <caption webpage="добро-пожаловать!" alt=""/>
+    </file>
+    <file name="ertorworldbaner.jpg" crc="488157990" seo="true" ref="index:добро-пожаловать!">
+      <caption webpage="index" alt=""/>
+      <caption webpage="добро-пожаловать!" alt=""/>
+    </file>
+    <file name="thedanyawin-banner.jpg" crc="3985792186" seo="true" ref="index:добро-пожаловать!">
+      <caption webpage="index" alt=""/>
+      <caption webpage="добро-пожаловать!" alt=""/>
+    </file>
+    <file name="снимок-photoroom (2)-u424-a.png" crc="3793276101" ref="добро-пожаловать!"/>
+    <file name="снимок-photoroom (2).png" crc="196570456" seo="true" ref="языки:мои-проекты:languageязыки:my-projects">
+      <caption webpage="языки" alt=""/>
+      <caption webpage="languageязыки" alt=""/>
+      <caption webpage="мои-проекты" alt=""/>
+      <caption webpage="my-projects" alt=""/>
+    </file>
+  </folder>
+  <file name="index.html" crc="3855514642" seo="true" mt="1670060211084" redirect="true"/>
+  <file name="languageязыки.html" crc="227676281" seo="true" mt="1670011368154" redirect="true"/>
+  <file name="добро-пожаловать!.html" crc="311757449" seo="true" mt="1670011369448" redirect="true"/>
+  <file name="языки.html" crc="345523407" seo="true" mt="1670011366192" redirect="true"/>
+  <file name="my-projects.html" crc="3867332240" seo="true" mt="1670011340296" redirect="true"/>
+  <file name="мои-проекты.html" crc="4240364536" seo="true" mt="1670011370608" redirect="true"/>
+</manifest>
